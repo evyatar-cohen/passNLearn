@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games>
+  <idCounter>29</idCounter>
+  <game id="29" code="129" timePerTask="noLimit" published="false">
+    <title>%d7%94%d7%9e%d7%a9%d7%97%d7%a7+%d7%a9%d7%9c+%d7%90%d7%91%d7%99%d7%aa%d7%a8+%d7%94%d7%9e%d7%9c%d7%9a</title>
+    <qCounter>6</qCounter>
+    <question id="1" text="%d7%90%d7%99%d7%96%d7%94+%d7%9b%d7%99%d7%a3+%d7%a4%d7%94%3fs" pic="20_07_19-00_59_335.jpg" ansType="image">
+      <answer id="1" correct="true">20_07_19-01_09_311.jpg</answer>
+      <answer id="2" correct="false">20_07_19-01_13_442.jpg</answer>
+    </question>
+    <question id="2" text="%d7%93%d7%a9%d7%92%d7%a9%d7%93%d7%92" pic="text" ansType="image">
+      <answer id="1" correct="true">19_07_19-12_53_301.jpg</answer>
+      <answer id="2" correct="false">19_07_19-12_53_302.jpeg</answer>
+    </question>
+    <question id="3" text="sdfdsf" pic="20_07_19-01_18_575.jpg" ansType="image">
+      <answer id="1" correct="true">20_07_19-01_18_411.jpeg</answer>
+      <answer id="2" correct="false">20_07_19-01_18_412.png</answer>
+      <answer id="3" correct="false">20_07_19-01_18_413.png</answer>
+    </question>
+    <question id="4" text="safdasfasdf" pic="text" ansType="image">
+      <answer id="1" correct="true">20_07_19-01_19_171.jpg</answer>
+      <answer id="2" correct="false">20_07_19-01_19_172.jpeg</answer>
+    </question>
+    <question id="5" text="asddasdasd" pic="20_07_19-01_24_005.jpg" ansType="image">
+      <answer id="1" correct="true">20_07_19-01_24_001.jpg</answer>
+      <answer id="2" correct="false">20_07_19-01_24_002.png</answer>
+    </question>
+    <question id="6" text="asdsadsa" pic="text" ansType="image">
+      <answer id="1" correct="true">20_07_19-01_24_201.jpg</answer>
+      <answer id="2" correct="false">20_07_19-01_24_202.png</answer>
+    </question>
+  </game>
+  <game id="28" code="128" timePerTask="noLimit" published="True">
+    <title>%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+</title>
+    <qCounter>11</qCounter>
+    <question id="1" text="%d7%9e%d7%99+%d7%94%d7%90%d7%a9%d7%94+%d7%94%d7%99%d7%97%d7%99%d7%93%d7%94+%d7%a9%d7%9b%d7%99%d7%94%d7%a0%d7%94+%d7%a2%d7%93+%d7%9b%d7%94+%d7%9b%d7%99%d7%95%d7%a9%d7%91%d7%aa+%d7%a8%d7%90%d7%a9+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%93%d7%9c%d7%99%d7%94+%d7%90%d7%99%d7%a6%d7%99%d7%a7</answer>
+      <answer id="2" correct="false">%d7%aa%d7%9e%d7%a8+%d7%96%d7%a0%d7%91%d7%a8%d7%92</answer>
+      <answer id="3" correct="false">%d7%a9%d7%9c%d7%99+%d7%99%d7%97%d7%99%d7%9e%d7%95%d7%91%d7%99%d7%a5</answer>
+      <answer id="4" correct="false">%d7%92%d7%95%d7%9c%d7%93%d7%94+%d7%9e%d7%90%d7%99%d7%a8</answer>
+    </question>
+    <question id="2" text="%d7%9e%d7%99+%d7%94%d7%99%d7%94+%d7%99%d7%95%d7%a9%d7%91+%d7%a8%d7%90%d7%a9+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%99%d7%95%d7%a1%d7%a3+%d7%a9%d7%a4%d7%a8%d7%99%d7%a0%d7%a6%d7%a7+</answer>
+      <answer id="2" correct="false">%d7%93%d7%95%d7%93+%d7%91%d7%9f+%d7%92%d7%95%d7%a8%d7%99%d7%95%d7%9f</answer>
+      <answer id="3" correct="false">%d7%a9%d7%9e%d7%a2%d7%95%d7%9f+%d7%a4%d7%a8%d7%a1</answer>
+      <answer id="4" correct="false">%d7%9c%d7%95%d7%99+%d7%90%d7%a9%d7%9b%d7%95%d7%9c</answer>
+    </question>
+    <question id="3" text="%d7%9b%d7%9e%d7%94+%d7%97%d7%91%d7%a8%d7%99+%d7%9b%d7%a0%d7%a1%d7%aa+%d7%9e%d7%9b%d7%94%d7%a0%d7%99%d7%9d+%d7%99%d7%a9+%d7%91%d7%99%d7%a9%d7%a8%d7%90%d7%9c" pic="text" ansType="text">
+      <answer id="1" correct="true">120</answer>
+      <answer id="2" correct="false">80</answer>
+      <answer id="3" correct="false">140</answer>
+      <answer id="4" correct="false">%d7%9e%d7%a9%d7%aa%d7%a0%d7%94+%d7%91%d7%94%d7%aa%d7%90%d7%9d+%d7%9c%d7%aa%d7%95%d7%a6%d7%90%d7%95%d7%aa+%d7%94%d7%91%d7%97%d7%99%d7%a8%d7%95%d7%aa</answer>
+    </question>
+    <question id="4" text="%d7%91%d7%90%d7%99%d7%9c%d7%95+%d7%aa%d7%a4%d7%a7%d7%99%d7%93%d7%99%d7%9d+%d7%94%d7%97%d7%96%d7%99%d7%a7+%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7+" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%a9%d7%a8+%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f+%d7%95%d7%a9%d7%a8+%d7%94%d7%97%d7%95%d7%a5</answer>
+      <answer id="2" correct="false">%d7%a9%d7%a8+%d7%94%d7%aa%d7%a8%d7%91%d7%95%d7%aa+%d7%95%d7%a9%d7%a8+%d7%94%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f</answer>
+      <answer id="3" correct="false">%d7%a9%d7%a8+%d7%94%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa+%d7%95%d7%a9%d7%a8+%d7%94%d7%90%d7%95%d7%a6%d7%a8</answer>
+      <answer id="4" correct="false">%d7%a9%d7%a8+%d7%94%d7%aa%d7%a8%d7%91%d7%95%d7%aa+%d7%95%d7%a9%d7%a8+%d7%94%d7%97%d7%95%d7%a5</answer>
+    </question>
+    <question id="5" text="%d7%9e%d7%99+%d7%a8%d7%a9%d7%90%d7%99+%d7%9c%d7%94%d7%91%d7%97%d7%a8+%d7%9c%d7%9b%d7%a0%d7%a1%d7%aa" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%9b%d7%9c+%d7%9e%d7%99+%d7%a9%d7%9e%d7%9c%d7%90%d7%95+%d7%9c%d7%95+21+%d7%a9%d7%a0%d7%99%d7%9d</answer>
+      <answer id="2" correct="false">%d7%9b%d7%9c+%d7%9e%d7%99+%d7%a9%d7%9e%d7%9c%d7%90%d7%95+%d7%9c%d7%95+18+%d7%a9%d7%a0%d7%99%d7%9d</answer>
+      <answer id="3" correct="false">%d7%9b%d7%9c+%d7%9e%d7%99+%d7%a9%d7%a9%d7%99%d7%a8%d7%aa+%d7%91%d7%a6%d7%91%d7%90+</answer>
+      <answer id="4" correct="false">%d7%9b%d7%9c+%d7%9e%d7%99+%d7%a9%d7%90%d7%99%d7%9f+%d7%9c%d7%95+%d7%aa%d7%99%d7%a7+%d7%a4%d7%9c%d7%99%d7%9c%d7%99+%d7%91%d7%9e%d7%a9%d7%98%d7%a8%d7%94</answer>
+    </question>
+    <question id="6" text="%d7%91%d7%a0%d7%99%d7%9e%d7%99%d7%9f+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%a0%d7%91%d7%97%d7%a8+%d7%9e%d7%a1%d7%a4%d7%a8+%d7%a4%d7%a2%d7%9e%d7%99%d7%9d+%d7%9c%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%2c+%d7%9e%d7%99+%d7%94%d7%99%d7%94+%d7%94%d7%a0%d7%a9%d7%99%d7%90+%d7%91%d7%96%d7%9e%d7%9f+%d7%9b%d7%94%d7%95%d7%a0%d7%aa%d7%95+%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%a0%d7%94+" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%a2%d7%96%d7%a8+%d7%95%d7%99%d7%a6%d7%9e%d7%9f</answer>
+      <answer id="2" correct="false">%d7%99%d7%a6%d7%97%d7%a7+%d7%a8%d7%91%d7%99%d7%9f</answer>
+      <answer id="3" correct="false">%d7%9e%d7%a9%d7%94+%d7%a7%d7%a6%d7%91</answer>
+      <answer id="4" correct="false">%d7%99%d7%a6%d7%97%d7%a7+%d7%a0%d7%91%d7%95%d7%9f</answer>
+    </question>
+    <question id="7" text="%d7%9e%d7%aa%d7%99+%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%97%d7%95%d7%92%d7%92%d7%aa+%d7%90%d7%aa+%d7%99%d7%95%d7%9d+%d7%94%d7%95%d7%9c%d7%93%d7%aa%d7%94" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%98%22%d7%95+%d7%91%d7%a9%d7%91%d7%98</answer>
+      <answer id="2" correct="false">%d7%9c%22%d7%92+%d7%91%d7%a2%d7%95%d7%9e%d7%a8</answer>
+      <answer id="3" correct="false">%d7%91%d7%99%d7%95%d7%9d+%d7%94%d7%a2%d7%a6%d7%9e%d7%90%d7%95%d7%aa</answer>
+      <answer id="4" correct="false">%d7%91%d7%99%d7%95%d7%9d+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d</answer>
+    </question>
+    <question id="8" text="%d7%9e%d7%94+%d7%a7%d7%95%d7%91%d7%a2+%d7%90%d7%aa+%d7%90%d7%97%d7%95%d7%96+%d7%94%d7%97%d7%a1%d7%99%d7%9e%d7%94+%d7%91%d7%91%d7%97%d7%99%d7%a8%d7%95%d7%aa+%d7%9c%d7%9b%d7%a0%d7%a1%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%9e%d7%a4%d7%9c%d7%92%d7%94+%d7%a9%d7%9c%d7%90+%d7%a7%d7%99%d7%91%d7%9c%d7%94+%d7%9c%d7%a4%d7%97%d7%95%d7%aa+3.25%25+%d7%9e%d7%94%d7%a7%d7%95%d7%9c%d7%95%d7%aa+%d7%9c%d7%90+%d7%aa%d7%9b%d7%a0%d7%a1+%d7%9c%d7%9b%d7%a0%d7%a1%d7%aa</answer>
+      <answer id="2" correct="false">%d7%9e%d7%a4%d7%9c%d7%92%d7%94+%d7%a9%d7%9c%d7%90+%d7%a7%d7%99%d7%91%d7%9c%d7%94+%d7%9c%d7%a4%d7%97%d7%95%d7%aa+5.25%25++%d7%9e%d7%94%d7%a7%d7%95%d7%9c%d7%95%d7%aa+%d7%9c%d7%90+%d7%aa%d7%9b%d7%a0%d7%a1+%d7%9c%d7%9b%d7%a0%d7%a1%d7%aa</answer>
+      <answer id="3" correct="false">%d7%9e%d7%a4%d7%9c%d7%92%d7%94+%d7%a9%d7%9c%d7%90+%d7%a7%d7%99%d7%91%d7%9c%d7%94+%d7%9c%d7%a4%d7%97%d7%95%d7%aa+10.5%25++%d7%9e%d7%94%d7%a7%d7%95%d7%9c%d7%95%d7%aa+%d7%9c%d7%90+%d7%aa%d7%9b%d7%a0%d7%a1+%d7%9c%d7%9b%d7%a0%d7%a1%d7%aa</answer>
+      <answer id="4" correct="false">%d7%9e%d7%a4%d7%9c%d7%92%d7%94+%d7%a9%d7%9c%d7%90+%d7%a7%d7%99%d7%91%d7%9c%d7%94+%d7%9c%d7%a4%d7%97%d7%95%d7%aa+4.75%25+%d7%9e%d7%94%d7%a7%d7%95%d7%9c%d7%95%d7%aa+%d7%9c%d7%90+%d7%aa%d7%9b%d7%a0%d7%a1+%d7%9c%d7%9b%d7%a0%d7%a1%d7%aa</answer>
+    </question>
+    <question id="9" text="%d7%9e%d7%99+%d7%91%d7%95%d7%97%d7%a8+%d7%90%d7%aa+%d7%a0%d7%a9%d7%99%d7%90+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%94%d7%9b%d7%a0%d7%a1%d7%aa</answer>
+      <answer id="2" correct="false">%d7%90%d7%96%d7%a8%d7%97%d7%99+%d7%99%d7%a9%d7%a8%d7%90%d7%9c</answer>
+      <answer id="3" correct="false">%d7%94%d7%a9%d7%a8%d7%99%d7%9d+%d7%91%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+</answer>
+      <answer id="4" correct="false">%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94</answer>
+    </question>
+    <question id="10" text="%d7%9b%d7%9e%d7%94+%d7%a9%d7%a0%d7%99%d7%9d+%d7%9b%d7%99%d7%94%d7%9f+%d7%90%d7%94%d7%95%d7%93+%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98+%d7%9b%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+" pic="text" ansType="text">
+      <answer id="1" correct="true">3+%d7%a9%d7%a0%d7%99%d7%9d</answer>
+      <answer id="2" correct="false">%d7%a9%d7%a0%d7%94+%d7%95%d7%97%d7%a6%d7%99</answer>
+      <answer id="3" correct="false">4+%d7%a9%d7%a0%d7%99%d7%9d</answer>
+      <answer id="4" correct="false">6+%d7%a9%d7%a0%d7%99%d7%9d+</answer>
+    </question>
+    <question id="11" text="%d7%9e%d7%99+%d7%9e%d7%91%d7%99%d7%9f+%d7%97%d7%91%d7%a8%d7%99+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%94%d7%91%d7%90%d7%99%d7%9d%2c+%d7%9e%d7%a2%d7%95%d7%9c%d7%9d+%d7%9c%d7%90+%d7%a0%d7%97%d7%a9%d7%93+%d7%91%d7%a4%d7%9c%d7%99%d7%9c%d7%99%d7%9d+" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%a0%d7%a4%d7%aa%d7%9c%d7%99+%d7%91%d7%a0%d7%98</answer>
+      <answer id="2" correct="false">%d7%90%d7%94%d7%95%d7%93+%d7%90%d7%95%d7%9c%d7%9e%d7%a8%d7%98+</answer>
+      <answer id="3" correct="false">%d7%90%d7%a8%d7%99%d7%94+%d7%93%d7%a8%d7%a2%d7%99</answer>
+      <answer id="4" correct="false">%d7%9e%d7%a9%d7%94+%d7%a7%d7%a6%d7%91+</answer>
+    </question>
+  </game>
+  <game id="27" code="127" timePerTask="30" published="True">
+    <title>%d7%9e%d7%93%d7%99%d7%a0%d7%95%d7%aa+%d7%95%d7%90%d7%aa%d7%a8%d7%99%d7%9d+%d7%9e%d7%a4%d7%95%d7%a8%d7%a1%d7%9e%d7%99%d7%9d+%d7%91%d7%a2%d7%95%d7%9c%d7%9d</title>
+    <qCounter>21</qCounter>
+    <question id="1" text="%d7%90%d7%99%d7%96%d7%94+%d7%9e%d7%a4%d7%9c%d7%90%d7%99+%d7%94%d7%a2%d7%95%d7%9c%d7%9d+%d7%94%d7%91%d7%90%d7%99%d7%9d+%d7%9e%d7%9e%d7%95%d7%a7%d7%9d+%d7%91%d7%91%d7%a8%d7%96%d7%99%d7%9c+" pic="text" ansType="image">
+      <answer id="1" correct="true">19_07_19-03_43_521.jpg</answer>
+      <answer id="2" correct="false">19_07_19-03_43_522.jpg</answer>
+      <answer id="3" correct="false">19_07_19-03_43_523.jfif</answer>
+      <answer id="4" correct="false">19_07_19-03_43_524.jfif</answer>
+    </question>
+    <question id="2" text="%d7%94%d7%99%d7%9b%d7%9f+%d7%9e%d7%9e%d7%95%d7%a7%d7%9d+%d7%90%d7%aa%d7%a8+%d7%96%d7%94+" pic="19_07_19-03_44_595.jfif" ansType="text">
+      <answer id="1" correct="true">%d7%99%d7%95%d7%a7%d7%98%d7%90%d7%9f%2c+%d7%9e%d7%a7%d7%a1%d7%99%d7%a7%d7%95+</answer>
+      <answer id="2" correct="false">%d7%a7%d7%94%d7%99%d7%a8%2c+%d7%9e%d7%a6%d7%a8%d7%99%d7%9d</answer>
+      <answer id="3" correct="false">%d7%a1%d7%9f+%d7%9b%d7%a8%d7%99%d7%a1%d7%98%d7%95%d7%91%d7%9c%2c+%d7%9e%d7%a7%d7%a1%d7%99%d7%a7%d7%95</answer>
+      <answer id="4" correct="false">%d7%91%d7%90%d7%92%d7%95%2c+%d7%9e%d7%99%d7%a0%d7%90%d7%9e%d7%a8</answer>
+    </question>
+    <question id="3" text="%d7%94%d7%99%d7%9b%d7%9f+%d7%a0%d7%9e%d7%a6%d7%90+%d7%9e%d7%93%d7%91%d7%a8+%d7%94%d7%a1%d7%9c%d7%90%d7%a8+" pic="19_07_19-03_45_345.jfif" ansType="text">
+      <answer id="1" correct="true">%d7%91%d7%95%d7%9c%d7%99%d7%91%d7%99%d7%94</answer>
+      <answer id="2" correct="false">%d7%a6%27%d7%99%d7%9c%d7%94</answer>
+      <answer id="3" correct="false">%d7%91%d7%a8%d7%96%d7%99%d7%9c</answer>
+      <answer id="4" correct="false">%d7%a7%d7%95%d7%9c%d7%95%d7%9e%d7%91%d7%99%d7%94</answer>
+    </question>
+    <question id="4" text="%d7%9e%d7%94%d7%95+%d7%94%d7%92%d7%9c%d7%90%d7%a4%d7%92%d7%95%d7%a1+" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%90%d7%99%d7%99%d7%9d+%d7%91%d7%90%d7%95%d7%a7%d7%99%d7%99%d7%a0%d7%95%d7%a1+%d7%94%d7%a9%d7%a7%d7%98+%d7%94%d7%a9%d7%99%d7%99%d7%9b%d7%99%d7%9d+%d7%9c%d7%90%d7%a7%d7%95%d7%95%d7%93%d7%95%d7%a8+</answer>
+      <answer id="2" correct="false">%d7%a7%d7%91%d7%95%d7%a6%d7%aa+%d7%9b%d7%a4%d7%a8%d7%99%d7%9d+%d7%91%d7%99%d7%a2%d7%a8+%d7%94%d7%90%d7%9e%d7%96%d7%95%d7%a0%d7%a1</answer>
+      <answer id="3" correct="false">%d7%90%d7%99%d7%99+%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d+%d7%94%d7%a9%d7%99%d7%99%d7%9b%d7%99%d7%9d+%d7%9c%d7%90%d7%99%d7%a0%d7%93%d7%95%d7%a0%d7%96%d7%99%d7%94</answer>
+      <answer id="4" correct="false">%d7%90%d7%99+%d7%94%d7%a9%d7%99%d7%99%d7%9a+%d7%9c%d7%a7%d7%91%d7%95%d7%a6%d7%aa+%d7%90%d7%99%d7%99+%d7%94%d7%a4%d7%a1%d7%97%d7%90</answer>
+    </question>
+    <question id="5" text="%d7%a6%d7%a4%d7%95%d7%9f+%d7%90%d7%99%d7%a8%d7%9c%d7%a0%d7%93+%d7%a9%d7%99%d7%99%d7%9b%d7%aa+%d7%9c-" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%91%d7%a8%d7%99%d7%98%d7%a0%d7%99%d7%94</answer>
+      <answer id="2" correct="false">%d7%96%d7%95+%d7%9e%d7%93%d7%99%d7%a0%d7%94+%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%aa</answer>
+      <answer id="3" correct="false">%d7%a9%d7%99%d7%99%d7%9b%d7%aa+%d7%9c%d7%90%d7%99%d7%a8%d7%9c%d7%a0%d7%93</answer>
+      <answer id="4" correct="false">%d7%a1%d7%a7%d7%95%d7%98%d7%9c%d7%a0%d7%93</answer>
+    </question>
+    <question id="6" text="%d7%9e%d7%94%d7%99+%d7%91%d7%99%d7%a8%d7%aa+%d7%90%d7%9c+%d7%a1%d7%9c%d7%95%d7%95%d7%93%d7%95%d7%a8" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%a1%d7%90%d7%9f+%d7%a1%d7%9c%d7%95%d7%95%d7%93%d7%95%d7%a8</answer>
+      <answer id="2" correct="false">%d7%a1%d7%9c%d7%95%d7%95%d7%93%d7%95%d7%a8+%d7%94%d7%a4%d7%a8%d7%a1%d7%99%d7%aa</answer>
+      <answer id="3" correct="false">%d7%a1%d7%9c%d7%95%d7%95%d7%93%d7%95%d7%a8+%d7%93%d7%94+%d7%91%d7%90%d7%94%d7%99%d7%94</answer>
+      <answer id="4" correct="false">%d7%a1%d7%9c%d7%95%d7%95%d7%93%d7%95%d7%a8+%d7%a1%d7%99%d7%98%d7%99</answer>
+    </question>
+    <question id="7" text="%d7%98%d7%99%d7%95%d7%95%d7%90%d7%9f+%d7%94%d7%99%d7%90+-+" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%9e%d7%93%d7%99%d7%a0%d7%94+%d7%a9%d7%90%d7%99%d7%a0%d7%94+%d7%97%d7%91%d7%a8%d7%94+%d7%91%d7%90%d7%95%d7%9e%d7%95%d7%aa+%d7%94%d7%9e%d7%90%d7%95%d7%97%d7%93%d7%95%d7%aa</answer>
+      <answer id="2" correct="false">%d7%9e%d7%93%d7%99%d7%a0%d7%94+%d7%94%d7%97%d7%91%d7%a8%d7%94+%d7%91%d7%90%d7%95%d7%9e%d7%95%d7%aa+%d7%94%d7%9e%d7%90%d7%95%d7%97%d7%93%d7%95%d7%aa</answer>
+      <answer id="3" correct="false">%d7%90%d7%95%d7%98%d7%95%d7%a0%d7%95%d7%9e%d7%99%d7%94+%d7%a9%d7%9c+%d7%a1%d7%99%d7%9f</answer>
+      <answer id="4" correct="false">%d7%a2%d7%99%d7%a8+%d7%91%d7%99%d7%a4%d7%9f</answer>
+    </question>
+    <question id="8" text="%d7%9e%d7%94+%d7%96%d7%94+%d7%a7%d7%95%d7%a0%d7%92%d7%95+" pic="19_07_19-03_49_425.jfif" ansType="text">
+      <answer id="1" correct="true">%d7%a9%d7%aa%d7%99+%d7%9e%d7%93%d7%99%d7%a0%d7%95%d7%aa+%d7%91%d7%90%d7%a4%d7%a8%d7%99%d7%a7%d7%94+</answer>
+      <answer id="2" correct="false">%d7%97%d7%91%d7%9c+%d7%90%d7%a8%d7%a5+%d7%91%d7%92%d7%a8%d7%9e%d7%a0%d7%99%d7%94+%d7%91%d7%95+%d7%9e%d7%99%d7%99%d7%a6%d7%a8%d7%99%d7%9d+%d7%90%d7%aa+%d7%a4%d7%98%d7%99%d7%a9+%d7%94%d7%a7%d7%95%d7%a0%d7%92%d7%95</answer>
+      <answer id="3" correct="false">%d7%9e%d7%93%d7%99%d7%a0%d7%94+%d7%91%d7%90%d7%a4%d7%a8%d7%99%d7%a7%d7%94+</answer>
+      <answer id="4" correct="false">%d7%a0%d7%94%d7%a8+%d7%94%d7%96%d7%95%d7%a8%d7%9d+%d7%91%d7%99%d7%9f+%d7%a1%d7%99%d7%9f+%d7%9c%d7%94%d7%95%d7%93%d7%95</answer>
+    </question>
+    <question id="9" text="%d7%94%d7%a0%d7%a7%d7%95%d7%93%d7%94+%d7%94%d7%92%d7%91%d7%95%d7%94%d7%94+%d7%91%d7%99%d7%95%d7%aa%d7%a8+%d7%91%d7%a8%d7%9b%d7%a1+%d7%94%d7%94%d7%99%d7%9e%d7%9c%d7%90%d7%99%d7%94+%d7%a0%d7%9e%d7%a6%d7%90%d7%aa+%d7%91%d7%92%d7%95%d7%91%d7%94+8848%2c+%d7%9e%d7%94%d7%95+%d7%a9%d7%9d+%d7%94%d7%94%d7%a8+%d7%a2%d7%9c%d7%99%d7%95+%d7%9e%d7%9e%d7%95%d7%a7%d7%9e%d7%aa+%d7%a0%d7%a7%d7%95%d7%93%d7%94+%d7%96%d7%95" pic="text" ansType="text">
+      <answer id="1" correct="true">%d7%90%d7%95%d7%95%d7%a8%d7%a1%d7%98</answer>
+      <answer id="2" correct="false">%d7%a7%d7%99%d7%99+2</answer>
+      <answer id="3" correct="false">%d7%a7%d7%99%d7%9c%d7%99%d7%9e%d7%a0%d7%92%27%d7%a8%d7%95</answer>
+      <answer id="4" correct="false">%d7%90%d7%a0%d7%90%d7%a4%d7%95%d7%a8%d7%a0%d7%94</answer>
+    </question>
+    <question id="13" text="%d7%93%d7%92%d7%9c+%d7%96%d7%94+%d7%a9%d7%99%d7%99%d7%9a+%d7%9c%d7%90%d7%99%d7%96%d7%95+%d7%9e%d7%93%d7%99%d7%a0%d7%94" pic="19_07_19-03_55_265.png" ansType="text">
+      <answer id="1" correct="true">%d7%a9%d7%95%d7%95%d7%93%d7%99%d7%94</answer>
+      <answer id="2" correct="false">%d7%a4%d7%99%d7%a0%d7%9c%d7%a0%d7%93</answer>
+      <answer id="3" correct="false">%d7%92%d7%a8%d7%9e%d7%a0%d7%99%d7%94</answer>
+      <answer id="4" correct="false">%d7%99%d7%a9%d7%a8%d7%90%d7%9c</answer>
+    </question>
+    <question id="21" text="%d7%9e%d7%94+%d7%94%d7%90%d7%9e%d7%a8%d7%94+%d7%94%d7%a0%d7%9b%d7%95%d7%a0%d7%94+%d7%91%d7%a0%d7%95%d7%92%d7%a2+%d7%9c%d7%a4%d7%a1%d7%9c+%d7%94%d7%97%d7%99%d7%a8%d7%95%d7%aa" pic="19_07_19-03_57_555.jfif" ansType="text">
+      <answer id="1" correct="true">%d7%94%d7%a4%d7%a1%d7%9c+%d7%a0%d7%99%d7%aa%d7%9f+%d7%9b%d7%9e%d7%aa%d7%a0%d7%94+%d7%9e%d7%9e%d7%a9%d7%9c%d7%aa+%d7%a6%d7%a8%d7%a4%d7%aa+%d7%9c%d7%90%d7%a8%d7%a6%d7%95%d7%aa+%d7%94%d7%91%d7%a8%d7%99%d7%aa</answer>
+      <answer id="2" correct="false">%d7%92%d7%95%d7%91%d7%94%d7%95+%d7%a9%d7%9c+%d7%94%d7%a4%d7%a1%d7%9c+%d7%94%d7%95%d7%90+50+%d7%9e%d7%98%d7%a8+%d7%9b%d7%9e%d7%a1%d7%a4%d7%a8+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%95%d7%aa</answer>
+      <answer id="3" correct="false">%d7%94%d7%a4%d7%a1%d7%9c+%d7%94%d7%95%d7%90+%d7%a1%d7%9e%d7%9c+%d7%9c%d7%a0%d7%99%d7%a6%d7%97%d7%95%d7%9f+%d7%91%d7%9e%d7%9c%d7%97%d7%9e%d7%94+%d7%94%d7%a7%d7%a8</answer>
+      <answer id="4" correct="false">%d7%94%d7%a4%d7%a1%d7%9c+%d7%94%d7%95%d7%90+%d7%a1%d7%9e%d7%9c+%d7%9c%d7%97%d7%95%d7%96%d7%a7+%d7%94%d7%a2%d7%9d+%d7%94%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99</answer>
+    </question>
+  </game>
+</games>

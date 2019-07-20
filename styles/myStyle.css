@@ -1,0 +1,986 @@
+﻿html {
+    font-family: rubik;
+}
+
+body {
+    height: 100%;
+    width: 1440px;
+    font-family: Rubik;
+    background-color: #F2F9F9;
+    overflow-x: auto;
+    margin: auto;
+}
+
+#FullPage {
+    padding-top: 40px;
+    position: relative;
+    right: 250px;
+    width: 1260px;
+}
+
+/*העלמת פקדי העלאת תמונה*/
+#FileUpload1, #FileUpload2, #FileUpload3, #FileUpload4, #FileUpload5 {
+    visibility: hidden;
+    width: 1px;
+}
+
+/*קביעת גודל לתמונות*/
+#ImageforUpload1, #ImageforUpload2, #ImageforUpload3, #ImageforUpload4 {
+    width: 130px;
+    height: 130px;
+    margin-top: 5px;
+    display: inline-block;
+    margin-right: -9px;
+}
+
+
+
+/*קביעת גודל תמונה בבסיס השאלה*/
+#ImageforUpload5 {
+    width: 95px;
+    height: 86px;
+    margin-top: 5px;
+    display: inline-block;
+    margin-right: -18px;
+}
+
+#gridviewdes {
+    width: 1265px;
+}
+
+#gridviewdes {
+    width: 1265px;
+}
+
+#header {
+    height: 45px;
+    position: relative;
+    top: -20px;
+    width: 100%;
+    right: 2px;
+    z-index: 20;
+    background-color: #9BE4C0;
+}
+
+#logo {
+    width: 140px;
+    display: inline;
+    float: right;
+    position: relative;
+    top: -12px;
+    right: 7px;
+}
+
+#GenNav ul li {
+    float: left;
+    display: inline;
+    margin-left: 50px;
+    position: relative;
+    top: 13px;
+    font-weight: 500;
+}
+
+    #GenNav ul li a {
+        text-decoration: none;
+        font-size: 18px;
+        color: #2A6E99;
+    }
+
+        #GenNav ul li a:hover {
+            font-weight: 500;
+            cursor: pointer;
+            font-family: 'Rubik', sans-serif;
+            direction: rtl;
+            text-decoration: none;
+            border-bottom: 2px solid #2A6E99;
+        }
+
+#popUpsDefault {
+    position: relative;
+    top: -240px;
+    left: 240px;
+}
+
+#bodydefault {
+    overflow-x: hidden;
+}
+
+#FullPage {
+    padding-top: 40px;
+    position: relative;
+    right: 250px;
+    width: 1265px;
+}
+
+#NewGame {
+    padding-bottom: 40px;
+    font-size: 25px;
+    width: 1265px;
+}
+
+#ImageButton1 {
+    width: 90px;
+    position: relative;
+    top: 7px;
+    opacity: 0.3;
+    left: 30px;
+}
+
+#btn1 {
+    opacity: 0.3;
+}
+
+#addNameTB, #addNameTB2 {
+    width: 560px;
+}
+
+#LabelCounter1 {
+    font-size: 15px;
+    position: relative;
+    left: 34px;
+    text-align: center;
+    top: 1px;
+}
+
+#lablecount {
+    width: 40px;
+    display: inline-block;
+}
+
+
+.Charlimit {
+    font-size: 15px;
+}
+
+th {
+    background-color: #87D8AE;
+    font-size: 14px;
+    font-weight: 500;
+    border: 2px solid #92B7B5;
+    border-top: none;
+    border-bottom: 3px #F2F9F9 solid;
+    height: 22px;
+}
+
+#GridView1 td {
+    font-size: 13px;
+    padding-right: 15px;
+    border-bottom: 3.8px #F2F9F9 solid;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+    #GridView1 td:first-child {
+        width: 500px;
+    }
+
+#GridView1 th:first-child {
+    border-right: none;
+}
+
+#GridView1 td:nth-child(2) {
+    width: 90px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#GridView1 td:nth-child(3) {
+    width: 45px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#GridView1 td:nth-child(4) {
+    width: 45px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#GridView1 td:nth-child(5) {
+    width: 45px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#GridView1 td:nth-child(6) {
+    width: 45px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#GridView1 td:nth-child(7) {
+    width: 45px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#GridView1 th:nth-child(7) {
+    border-left: none;
+}
+
+.EditBtns {
+    cursor: pointer;
+    border: none;
+}
+
+    .EditBtns:disabled {
+        cursor: not-allowed;
+    }
+
+
+.EditBtns2 {
+    opacity: 1;
+}
+
+#backBtn {
+    background: url('../images/BackBtn1.svg') no-repeat;
+    width: 85px;
+    height: 40px;
+    float: left;
+    outline: none;
+}
+
+    #backBtn:active {
+        background: url('../images/BackBtn2.svg') no-repeat;
+    }
+
+.updateBtn2 {
+    background: url('../images/AddBtn1.svg') no-repeat;
+    width: 112px;
+    height: 48px;
+    outline: none;
+    float: left;
+    margin: 10px;
+    position: relative;
+    left: 48px;
+    top: 14px;
+    opacity: 0.3
+}
+
+#updateBtn {
+    background: url('../images/AddBtn1.svg') no-repeat;
+    width: 112px;
+    height: 48px;
+    outline: none;
+    float: left;
+    margin: 10px;
+    position: relative;
+    left: 48px;
+    top: 14px;
+    opacity: 0.3
+}
+
+    #updateBtn:active {
+        background: url('../images/AddBtn2.svg') no-repeat;
+    }
+
+#ClearBtn {
+    background: url('../images/ClearBtn1.svg') no-repeat;
+    width: 100px;
+    height: 48px;
+    outline: none;
+    float: left;
+    margin: 10px;
+    position: relative;
+    left: 55px;
+    top: 14px;
+}
+
+    #ClearBtn:active {
+        background: url('../images/ClearBtn2.svg') no-repeat;
+    }
+
+#saveAndExit {
+    background: url('../images/SaveBtn1.svg') no-repeat;
+    width: 175px;
+    height: 48px;
+    float: left;
+    position: relative;
+    top: 20px;
+    outline: none;
+}
+
+    #saveAndExit:active {
+        background: url('../images/SaveBtn2.svg') no-repeat;
+    }
+
+#zoomBtn1, #zoomBtn2, #zoomBtn3, #zoomBtn4, #zoomBtn5 {
+    opacity: 0.3;
+}
+
+/*פאנל ימין*/
+#rightHalf {
+    width: 46%;
+    display: inline-block;
+    float: right;
+    margin-right: 60px;
+    margin-top: -22px;
+}
+
+#gameName {
+    display: inline-block;
+    position: relative;
+    top: -51px;
+    right: 170px;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-right: 60px;
+    font-weight: 500
+}
+
+h3 {
+    display: inline;
+    width: 50px;
+    font-size: 22px;
+}
+
+
+
+#Must1 {
+    width: 200px;
+    display: inline;
+    float: left;
+    font-size: 13px;
+    margin-left: 138px;
+    margin-bottom: 1px;
+    margin-top: 10px;
+}
+
+#questionTextTb {
+    display: inline-block;
+    width: 490px;
+    height: 80px;
+    position: relative;
+    border: 1.5px solid #A3D1D0;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 5px;
+    top: -2px;
+}
+
+
+#PicEditing1 {
+    display: block;
+    width: 30px;
+    height: 80px;
+    float: left;
+    margin-top: 5px;
+    position: relative;
+    left: 16px;
+}
+
+.UploadEdit {
+    margin: 3px;
+    position: relative;
+    right: 14px;
+}
+
+#Panel1 {
+    display: inline;
+    font-size: 15px;
+    position: relative;
+    top: 15px;
+}
+
+    #Panel1 p {
+        font-size: 12px;
+        margin-top: 2px;
+        color: red;
+    }
+
+#RadioButtonList2 {
+    display: inline-block;
+    position: relative;
+    top: 6px;
+}
+
+    #RadioButtonList2 tr {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+#textPanel {
+    margin-top: 35px;
+}
+
+    #textPanel p {
+        display: inline-block;
+        font-size: 12px;
+        float: left;
+        position: relative;
+        top: -4px;
+        left: 59px;
+    }
+
+#rightAnsTextTb {
+    border: #70f1b1 2px solid;
+}
+
+.TextAns {
+    width: 590px;
+    height: 40px;
+    border: 1px solid #A3D1D0;
+    margin-top: 4px;
+    padding-right: 10px;
+}
+
+.TextAnstype {
+    font-size: 15px;
+    font-weight: 500
+}
+
+/*פאנל שמאל*/
+#leftHalf {
+    width: 48%;
+    display: inline-block;
+    margin-right: 20px;
+    float: left;
+}
+
+
+/*גרידוויו שאלות  */
+#Gridview2Outline {
+    border: 2px #b8f7db solid;
+    height: 405px;
+    padding-right: 5px;
+    padding-top: 5px;
+    overflow-x: none;
+    overflow-y: auto;
+    width: 680px;
+    position: relative;
+    top: -8px;
+}
+
+#GridView2 th {
+    display: none;
+}
+
+#GridView2 td {
+    font-size: 13px;
+    border-bottom: 5px #F2F9F9 solid;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    padding: 0;
+    margin: auto;
+    width: 420px;
+}
+
+    #GridView2 td:first-child {
+        width: 600px;
+    }
+
+#GridView2 th:first-child {
+    border-right: none;
+}
+
+#GridView2 td:first-child:hover {
+    background-image: linear-gradient(to right, white, #b8f7db );
+}
+
+#GridView2 td:first-child:active {
+    background-image: linear-gradient(to right, white, #b8f7db );
+}
+
+
+.Gridview2Btn {
+    width: 600px;
+    direction: rtl;
+    text-align: right;
+    height: 35px;
+    font-size: 16px;
+    background: none;
+    border: none;
+    padding-right: 11px;
+    outline: none;
+}
+
+#leftHalf p {
+    display: inline;
+    float: left;
+    font-size: 13px;
+    position: relative;
+    left: 2px;
+    top: 3px;
+}
+
+.DeleteQBtn {
+    position: relative;
+    right: 30px;
+    top: 1px;
+}
+
+#questionsNum {
+    font-size: 20px;
+    position: relative;
+    top: 7px;
+}
+
+/*ImageUpload Panel*/
+
+#imagePanel {
+    margin-top: 45px;
+}
+
+.cimageuploadAns {
+    width: 100px;
+    display: inline-block;
+    margin: 25px;
+    height: 50px;
+    position: relative;
+    top: -60.5px;
+}
+
+#Label5 {
+    display: block;
+    position: relative;
+    right: 25px;
+    margin-bottom: 10px;
+    top: -10px;
+}
+
+#WrongAns {
+    width: 500px;
+    float: left;
+    height: 120px;
+}
+
+#imageuploadAns1 {
+    top: -33px;
+}
+
+#ImageforUpload1 {
+    border: #70f1b1 2px solid;
+}
+
+#FileUpload1 {
+    border: #70f1b1 1px solid;
+}
+
+#Label4 {
+    position: relative;
+    top: -3px;
+    right: 4px;
+}
+
+/*מסך הגדרות*/
+
+#settingstitle p {
+    display: inline;
+    font-size: 15px;
+}
+
+#settingstitle h3 {
+    display: inline;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#settingstitle h2 {
+    margin-right: -2.5px;
+}
+
+#FullPage2 {
+    padding-top: 40px;
+    position: relative;
+    right: 150px;
+    width: 1300px;
+}
+
+#TimePerQ {
+    font-size: 23px;
+    margin-top: 25px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+#DropDownList1 {
+    width: 174px;
+    margin-top: 7px;
+}
+
+#imgBtnBack {
+    background: url('../images/BackBtn1.svg') no-repeat;
+    width: 85px;
+    height: 40px;
+    float: left;
+    outline: none;
+    margin-left: 9px;
+    border-style: none;
+    position: relative;
+    top: -30px;
+}
+
+    #imgBtnBack:active {
+        background: url('../images/BackBtn2.svg') no-repeat;
+    }
+
+#imgBtnSave {
+    background: url('../images/SaveSettingsBtn1.svg') no-repeat;
+    width: 85px;
+    height: 40px;
+    float: left;
+    outline: none;
+    border-style: none;
+    position: relative;
+    margin-left: 15px;
+    top: -30px;
+}
+
+    #imgBtnSave:active {
+        background: url('../images/SaveSettingsBtn2.svg') no-repeat;
+    }
+
+#imgBtnSaveNEdit {
+    background: url('../images/SaveNEditBtn1.svg') no-repeat;
+    width: 149px;
+    height: 40px;
+    outline: none;
+    border-style: none;
+    position: relative;
+    right: 414px;
+    top: -35px;
+}
+
+
+    #imgBtnSaveNEdit:active {
+        background: url('../images/SaveNEditBtn2.svg') no-repeat;
+    }
+
+
+#DeleteQdiv {
+    position: absolute;
+    display: block;
+}
+
+#deleteQAlert {
+    background-color: #cbf9e2e8;
+    position: absolute;
+    width: 550px;
+    height: 190px;
+    border-radius: 6px;
+    display: block;
+    right: 480px;
+    z-index: 1;
+}
+
+#popUpsDefault #deleteQAlert {
+    top: -130px;
+}
+
+.deleteAlertTxt {
+    font-size: 16pt;
+    font-weight: 500;
+    text-align: left;
+    position: absolute;
+    width: 450px;
+    top: 40px;
+    right: 45px;
+    opacity: 1;
+}
+
+#deleteApprove {
+    display: inline-block;
+}
+
+
+#deleteApprove {
+    background: url('../images/deleteQyes1.svg') no-repeat;
+    width: 100px;
+    height: 40px;
+    top: 110px;
+    right: 320px;
+    outline: none;
+    border-style: none;
+    position: absolute;
+}
+
+
+    #deleteApprove:active {
+        background: url('../images/deleteQyes2.svg') no-repeat;
+    }
+
+#deleteCancel {
+    background: url('../images/deleteQno1.svg') no-repeat;
+    width: 100px;
+    height: 40px;
+    outline: none;
+    top: 110px;
+    right: 140px;
+    border-style: none;
+    position: absolute;
+}
+
+
+    #deleteCancel:active {
+        background: url('../images/deleteQno2.svg') no-repeat;
+    }
+
+#disableDiv {
+    background-color: #00000017;
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: 0;
+}
+
+#disableDiv2 {
+    background-color: rgba(0, 0, 0, 0.71);
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: 0;
+}
+
+#exitImageButton {
+    position: absolute;
+    top: 140px;
+    width: 2%;
+    right: 510px;
+}
+
+#BigImage {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    right: 550px;
+}
+
+
+/*מסך משחק*/
+#bodyGame {
+    overflow-x: hidden;
+}
+
+
+iframe {
+    border: 0;
+    height: calc(100vh - 58px);
+    left: 0;
+    position: absolute;
+    width: 125%;
+    z-index: -1 margin:0 auto;
+    bottom: 3%;
+    right: -12%;
+}
+
+.closeHowToPlay {
+    cursor: pointer;
+}
+
+#logo2 {
+    width: 300px
+}
+
+.hide {
+    display: none;
+}
+
+.popUp {
+    background-color: white;
+    width: 400px;
+    position: fixed;
+    top: 70px;
+    z-index: 4;
+    text-align: center;
+    width: 700px;
+    border-radius: 5px;
+    padding: 10px;
+    padding-bottom: 25px;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    direction: rtl;
+    border: 1px solid black;
+}
+
+#howToPlayDiv {
+    width: 55%%;
+    top: 90%
+}
+
+.bounceInDown {
+    -webkit-animation-name: bounceInDown;
+    animation-name: bounceInDown;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    opacity: 0.96;
+}
+
+@-webkit-keyframes bounceInDown {
+    0%, 60%, 75%, 90%, 100% {
+        -webkit-transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+        transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    }
+
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -3000px, 0);
+        transform: translate3d(0, -3000px, 0);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 25px, 0);
+        transform: translate3d(0, 25px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate3d(0, -10px, 0);
+        transform: translate3d(0, -10px, 0);
+    }
+
+    90% {
+        -webkit-transform: translate3d(0, 5px, 0);
+        transform: translate3d(0, 5px, 0);
+    }
+
+    100% {
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+@keyframes bounceInDown {
+    0%, 60%, 75%, 90%, 100% {
+        -webkit-transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+        transition-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+    }
+
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -3000px, 0);
+        transform: translate3d(0, -3000px, 0);
+    }
+
+    60% {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 25px, 0);
+        transform: translate3d(0, 25px, 0);
+    }
+
+    75% {
+        -webkit-transform: translate3d(0, -10px, 0);
+        transform: translate3d(0, -10px, 0);
+    }
+
+    90% {
+        -webkit-transform: translate3d(0, 5px, 0);
+        transform: translate3d(0, 5px, 0);
+    }
+
+    100% {
+        -webkit-transform: none;
+        transform: none;
+    }
+}
+
+
+/*מסך לוגין*/
+
+#loginpage {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    padding: 20px;
+    right: 41%;
+    top: 50px;
+    font-size: 18px;
+}
+
+
+#passwordTb {
+    position: relative;
+    right: 39px;
+}
+
+#passwordTitle {
+    position: relative;
+    right: 39px;
+}
+
+#exampleuser {
+    position: relative;
+    font-size: 12.5px;
+    font-weight: 500;
+    right: 110px;
+}
+
+#feedbacklogin {
+    position: relative;
+    top: 15px;
+    right: -1px;
+    font-size: 15px;
+    font-weight: 600;
+    color: red;
+}
+
+#userBtn {
+    background: url('../images/logibBtn1.svg') no-repeat;
+    width: 135px;
+    height: 48px;
+    right: 100px;
+    position: relative;
+    top: 20px;
+    outline: none;
+    border-style: none;
+}
+
+    #userBtn:active {
+        background: url('../images/logibBtn2.svg') no-repeat;
+    }
+
+#bodyGame {
+    background-color: #DFF9D9;
+}
+
+
+#tooltipCover {
+    background-color: #ff000001;
+    width: 120px;
+    height: 40px;
+    float: left;
+    position: relative;
+    right: 12%;
+    top: 24px;
+}
+
+#TooltipupdateBtn {
+    font-size: 15px;
+    border: 1px black solid;
+    width: 230px;
+    background-color: white;
+    float: left;
+    position: relative;
+    right: 12%;
+    top: -20px;
+    padding: 4px;
+    visibility: hidden;
+}
+
+
+#tooltipCover:hover + #TooltipupdateBtn {
+    visibility: visible;
+}
